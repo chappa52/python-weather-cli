@@ -31,3 +31,10 @@ Install required library:
 ```
 pip install requests
 ```
+## Run
+
+Run the application:
+
+```
+python weather_cli.py
+```
