@@ -38,3 +38,5 @@ Run the application:
 ```
 python weather_cli.py
 ```
+
+Replace YOUR_API_KEY with your OpenWeather API key.
