@@ -13,3 +13,21 @@ Command line weather application that retrieves current weather data using the O
 - Python
 - requests
 - OpenWeather API
+
+  ## Example
+
+```
+Enter city name: Berlin
+
+Weather in Berlin
+Temperature: 12 °C
+Condition: clear sky
+```
+
+## Installation
+
+Install required library:
+
+```
+pip install requests
+```
